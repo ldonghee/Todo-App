@@ -6,4 +6,9 @@
 - App.js 수정
 
 
-
+[2020.02.02]
+1. UI 구성
+- TodoTemplate
+- TodoInsert
+- TodoListItem
+- TooList
