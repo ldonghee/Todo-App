@@ -12,3 +12,18 @@
 - TodoInsert
 - TodoListItem
 - TooList
+
+[2020.02.06]
+1. App에서 todos 상태 사용
+2. 항목 추가 기능 구현
+- TodoInsert value 상태 관리
+- TodoInsert Todos 배열에 새 객체 추가
+- TodoInsert onSubmit Event 설정
+3. 지우기 기능 구현
+- Remove 함수 filter 이용 id 항목 추출
+- TodoItemList 삭제 함수 연결
+4. 수정 기능 기현
+- Toggle 함수 map 이용 
+- TodoItemList 토글 함수 연결
+
+
